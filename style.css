@@ -3,3 +3,29 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  text-align: center
+}
+img {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+a {
+  padding:10px;
+  background:goldenrod;
+  text-align:center
+}
+nav {
+  text-align:center
+}
+figcaption {
+  text-align: center;
+  font-size:smaller;
+}
+section#featured-property p{
+  width: 800px;
+  text-align:center;
+  vertical-align: auto;
+ 
+}
