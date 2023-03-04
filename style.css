@@ -18,6 +18,18 @@ figcaption{
 
 #featured-property p {
    width:700px;
-   padding:30px;
-   text-align:center;
+   padding-left:500px;
+   text-align:center
+}
+
+#details div {
+  float: left;
+  width:250px;
+  background-color:red;
+  padding-left:20px;
+   
+}
+
+#details {
+ padding-left:400px;
 }
